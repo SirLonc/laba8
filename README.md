@@ -1,1 +1,4 @@
 # laba8
+
+
+govno
