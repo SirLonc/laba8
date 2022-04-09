@@ -1,4 +1,2 @@
 # laba8
 
-
-govno
